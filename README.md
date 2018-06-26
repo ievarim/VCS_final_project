@@ -1,7 +1,5 @@
 # vcs_final_project
 
-You can find my webpage here: http://codingschoolprojektai.lt/tmp/kgbootcamp/ieva_rimaite/wp/
-
 The website is built on WordPress platform and it has responsive web design.
 
 # Programming languages used: 
